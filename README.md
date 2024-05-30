@@ -13,3 +13,10 @@
 
 ### Day 3
 TBA
+
+## Additional Resources
+
+Where to go next:
+- (perfect for beginners eager to use ML in biology) MIT course Computational Systems Biology: Deep Learning in the Life Sciences https://mit6874.github.io/
+- (slightly more advanced) Yannic Kilcher’s channel explaining various DL papers: https://www.youtube.com/channel/UCZHmQk67mSJgfCCTn7xBfew
+- (perfect for beginners to quickly run some code) TensorFlow tutorials: https://www.tensorflow.org/tutorials/keras/classification
