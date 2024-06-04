@@ -12,7 +12,8 @@
 - Hands-on: 2D-binding matrix and 2D convolution
 
 ### Day 3
-TBA
+- Hands-on: Transfer Learning
+- Hands-on: Interpreting 2D CNN on miRNA binding site data
 
 ## Additional Resources
 
