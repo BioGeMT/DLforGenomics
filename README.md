@@ -1,3 +1,26 @@
+# Genomics Hackathon 2024
+
+Training data: https://github.com/BioGeMT/DLforGenomics/raw/main/data/Hejret_2023/miRNA_train_set.tsv
+
+Testing data:
+https://github.com/BioGeMT/DLforGenomics/raw/main/data/Hejret_2023/miRNA_test_set_10.tsv
+
+Submission:
+- Add a new column to the file miRNA_test_set_10.tsv
+- Name of column = name of your solution
+- Values = your predictions (ideally in the range from 0 to 1)
+- Sent the file to the address: biogemt@um.edu.mt 
+- Subject: Genomics Hackathon
+- Deadline: 12.6.2024 23:59
+
+Evaluation metrics:
+- The area under the precision-recall curve (see sklearn.metrics.auc and sklearn.metrics.precision_recall_curve) 
+
+Result announcements:
+- The best solution will be awarded a prize on Friday 14th at 11:00
+- Several best solutions will be invited to give a short presentation on Friday 14th at 11:00
+
+
 # Deep Learning for Genomics
 
 ## Program
