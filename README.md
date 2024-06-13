@@ -1,9 +1,18 @@
 # Genomics Hackathon 2024
 
+## Update after Hackathon
+
+We are making available testing data with labels: https://github.com/BioGeMT/DLforGenomics/raw/main/data/Hejret_2023/miRNA_test_set_10_labels.tsv
+
+Feel free to use this data to evaluate your models. The evaluation metric is the area under the precision-recall curve (look at see sklearn.metrics.auc and sklearn.metrics.precision_recall_curve).
+
+If you have a new solution, especially with area under the precision-recall curve above 0.661, let us know.
+
+## Description
+
 Training data: https://github.com/BioGeMT/DLforGenomics/raw/main/data/Hejret_2023/miRNA_train_set.tsv
 
-Testing data:
-https://github.com/BioGeMT/DLforGenomics/raw/main/data/Hejret_2023/miRNA_test_set_10.tsv
+Testing data: https://github.com/BioGeMT/DLforGenomics/raw/main/data/Hejret_2023/miRNA_test_set_10.tsv
 
 Submission:
 - Add a new column to the file miRNA_test_set_10.tsv
