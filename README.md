@@ -2,7 +2,7 @@
 
 ## Update after Hackathon
 
-We are making available testing data with labels: https://github.com/BioGeMT/DLforGenomics/raw/main/data/Hejret_2023/miRNA_test_set_10_labels.tsv
+We are making available testing data with labels: https://github.com/BioGeMT/DLforGenomics/raw/main/data/Hejret_2023/miRNA_test_set_10_label.tsv
 
 Feel free to use this data to evaluate your models. The evaluation metric is the area under the precision-recall curve (look at see sklearn.metrics.auc and sklearn.metrics.precision_recall_curve).
 
